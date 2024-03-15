@@ -1,2 +1,2 @@
-cubejar
+A cubejar
 LOCAL
