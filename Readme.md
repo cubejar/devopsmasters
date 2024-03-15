@@ -1,1 +1,2 @@
 cubejar
+LOCAL
